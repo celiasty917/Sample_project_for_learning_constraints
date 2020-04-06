@@ -16,6 +16,16 @@
 		E56459A024372B1A009F1576 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E564599F24372B1A009F1576 /* main.m */; };
 		E56459AA24372B1B009F1576 /* Sample_project_for_learning_constraintsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E56459A924372B1B009F1576 /* Sample_project_for_learning_constraintsTests.m */; };
 		E56459B524372B1B009F1576 /* Sample_project_for_learning_constraintsUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = E56459B424372B1B009F1576 /* Sample_project_for_learning_constraintsUITests.m */; };
+		E56459CD24372B80009F1576 /* river.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E56459C324372B80009F1576 /* river.jpg */; };
+		E56459CE24372B80009F1576 /* pool.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E56459C424372B80009F1576 /* pool.jpg */; };
+		E56459CF24372B80009F1576 /* house.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E56459C524372B80009F1576 /* house.jpg */; };
+		E56459D024372B80009F1576 /* moon.png in Resources */ = {isa = PBXBuildFile; fileRef = E56459C624372B80009F1576 /* moon.png */; };
+		E56459D124372B80009F1576 /* rocket.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E56459C724372B80009F1576 /* rocket.jpg */; };
+		E56459D224372B80009F1576 /* sea.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E56459C824372B80009F1576 /* sea.jpg */; };
+		E56459D324372B80009F1576 /* mountain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E56459C924372B80009F1576 /* mountain.jpg */; };
+		E56459D424372B80009F1576 /* sky.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E56459CA24372B80009F1576 /* sky.jpg */; };
+		E56459D524372B80009F1576 /* lake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E56459CB24372B80009F1576 /* lake.jpg */; };
+		E56459D624372B80009F1576 /* night.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E56459CC24372B80009F1576 /* night.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +63,16 @@
 		E56459B024372B1B009F1576 /* Sample_project_for_learning_constraintsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Sample_project_for_learning_constraintsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E56459B424372B1B009F1576 /* Sample_project_for_learning_constraintsUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Sample_project_for_learning_constraintsUITests.m; sourceTree = "<group>"; };
 		E56459B624372B1B009F1576 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E56459C324372B80009F1576 /* river.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = river.jpg; sourceTree = "<group>"; };
+		E56459C424372B80009F1576 /* pool.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pool.jpg; sourceTree = "<group>"; };
+		E56459C524372B80009F1576 /* house.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = house.jpg; sourceTree = "<group>"; };
+		E56459C624372B80009F1576 /* moon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = moon.png; sourceTree = "<group>"; };
+		E56459C724372B80009F1576 /* rocket.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rocket.jpg; sourceTree = "<group>"; };
+		E56459C824372B80009F1576 /* sea.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sea.jpg; sourceTree = "<group>"; };
+		E56459C924372B80009F1576 /* mountain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mountain.jpg; sourceTree = "<group>"; };
+		E56459CA24372B80009F1576 /* sky.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sky.jpg; sourceTree = "<group>"; };
+		E56459CB24372B80009F1576 /* lake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lake.jpg; sourceTree = "<group>"; };
+		E56459CC24372B80009F1576 /* night.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = night.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +133,7 @@
 				E564599E24372B1A009F1576 /* Info.plist */,
 				E564599F24372B1A009F1576 /* main.m */,
 				E564599624372B1A009F1576 /* Sample_project_for_learning_constraints.xcdatamodeld */,
+				E56459C224372B80009F1576 /* constraint_pic */,
 			);
 			path = Sample_project_for_learning_constraints;
 			sourceTree = "<group>";
@@ -133,6 +154,23 @@
 				E56459B624372B1B009F1576 /* Info.plist */,
 			);
 			path = Sample_project_for_learning_constraintsUITests;
+			sourceTree = "<group>";
+		};
+		E56459C224372B80009F1576 /* constraint_pic */ = {
+			isa = PBXGroup;
+			children = (
+				E56459C324372B80009F1576 /* river.jpg */,
+				E56459C424372B80009F1576 /* pool.jpg */,
+				E56459C524372B80009F1576 /* house.jpg */,
+				E56459C624372B80009F1576 /* moon.png */,
+				E56459C724372B80009F1576 /* rocket.jpg */,
+				E56459C824372B80009F1576 /* sea.jpg */,
+				E56459C924372B80009F1576 /* mountain.jpg */,
+				E56459CA24372B80009F1576 /* sky.jpg */,
+				E56459CB24372B80009F1576 /* lake.jpg */,
+				E56459CC24372B80009F1576 /* night.jpg */,
+			);
+			path = constraint_pic;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -238,8 +276,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E56459D224372B80009F1576 /* sea.jpg in Resources */,
+				E56459CD24372B80009F1576 /* river.jpg in Resources */,
+				E56459D624372B80009F1576 /* night.jpg in Resources */,
+				E56459D124372B80009F1576 /* rocket.jpg in Resources */,
+				E56459CE24372B80009F1576 /* pool.jpg in Resources */,
+				E56459D524372B80009F1576 /* lake.jpg in Resources */,
+				E56459D024372B80009F1576 /* moon.png in Resources */,
 				E564599D24372B1A009F1576 /* LaunchScreen.storyboard in Resources */,
+				E56459D324372B80009F1576 /* mountain.jpg in Resources */,
 				E564599A24372B1A009F1576 /* Assets.xcassets in Resources */,
+				E56459CF24372B80009F1576 /* house.jpg in Resources */,
+				E56459D424372B80009F1576 /* sky.jpg in Resources */,
 				E564599524372B1A009F1576 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
